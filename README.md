@@ -5,4 +5,4 @@ As the name of the project suggests it is a stopwatch, nothing else :)
 
 ## Screenshot
 
-![Screenshot](/img/capture.png)
+![Screenshot](img/capture.png)
